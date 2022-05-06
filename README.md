@@ -1,7 +1,7 @@
 # Visual Studio C#-2010
 Estudos/Exercícios com base em livro de VS 2010 - Aprenda a programar na prática
 
-## Capítulo 1 - Intodrução
+## Capítulo 1 - Introdução
 - [ ] Exercícios 
 
 ## Capítulo 2 - Fundamentos
@@ -19,7 +19,7 @@ Estudos/Exercícios com base em livro de VS 2010 - Aprenda a programar na práti
 ## Capítulo 6 - Funções e Vetores
 - [ ] Exercícios
 
-## Capítulo 7 - Componentes VIsuais
+## Capítulo 7 - Componentes Visuais
 - [ ] Exercícios 
 
 ## Capítulo 8 - Criação de Menus
@@ -35,4 +35,4 @@ Estudos/Exercícios com base em livro de VS 2010 - Aprenda a programar na práti
 - [ ] Exercícios 
 
 ## Capítulo 12 - Orientação a Objetos
-- [ ] Exercícios 
+- [ ] Exercícios
