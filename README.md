@@ -2,7 +2,8 @@
 Estudos/Exercícios com base em livro de VS 2010 - Aprenda a programar na prática
 
 ## Capítulo 1 - Introdução
-- [ ] Exercícios 
+- [x] Exercícios 
+* Aplicação de conversão para maiúsculo e ordenação de 3 números.
 
 ## Capítulo 2 - Fundamentos
 - [ ] Exercícios 
