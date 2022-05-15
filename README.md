@@ -1,5 +1,5 @@
 # Visual Studio C#-2010
-Estudos/Exercícios com base em livro de VS 2010 - Aprenda a programar na prática
+Estudos/Exercícios com base em livro [Microsoft Visual C# 2010 express: Aprenda a programar na prática](https://www.estantevirtual.com.br/livros/luis-carlos-dos-santos/microsoft-visual-c-sharp-2010-express-aprenda-a-programar-na-pratica/11014866)
 
 ## Capítulo 1 - Introdução
 - [x] Exercícios 
