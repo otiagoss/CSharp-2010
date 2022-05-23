@@ -2,11 +2,26 @@
 Estudos/Exercícios com base em livro [Microsoft Visual C# 2010 express: Aprenda a programar na prática](https://www.estantevirtual.com.br/livros/luis-carlos-dos-santos/microsoft-visual-c-sharp-2010-express-aprenda-a-programar-na-pratica/11014866)
 
 ## Capítulo 1 - Introdução
-- [x] Exercícios 
 * Aplicação de conversão para maiúsculo e ordenação de 3 números.
+- [x] Exercícios 
 
 ## Capítulo 2 - Fundamentos
-- [ ] Exercícios 
+* Inteiros
+  * Tipos inteiros
+* Flutuante
+  * Tipo float
+  * Tipo decimal
+  * Tipo double
+* Tipo Enum
+* Tipo Array - Matriz
+* Operadores
+  * Aritméticos ou matemáticos
+  * Relacionais ou de comparação
+  * Lógicos
+  * Incremento e Decremento
+  * Aritméticos de atribuição
+- [x] Exercícios 
+
 
 ## Capítulo 3 - Estrutura Condicional
 - [ ] Exercícios 
