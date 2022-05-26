@@ -1,0 +1,15 @@
+E:\MeusProjetos\CSharp-2010\Capitulo 2\ConsoleExercicioParImpar\bin\Debug\net6.0\ConsoleExercicioParImpar.exe
+E:\MeusProjetos\CSharp-2010\Capitulo 2\ConsoleExercicioParImpar\bin\Debug\net6.0\ConsoleExercicioParImpar.deps.json
+E:\MeusProjetos\CSharp-2010\Capitulo 2\ConsoleExercicioParImpar\bin\Debug\net6.0\ConsoleExercicioParImpar.runtimeconfig.json
+E:\MeusProjetos\CSharp-2010\Capitulo 2\ConsoleExercicioParImpar\bin\Debug\net6.0\ConsoleExercicioParImpar.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 2\ConsoleExercicioParImpar\bin\Debug\net6.0\ConsoleExercicioParImpar.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 2\ConsoleExercicioParImpar\obj\Debug\net6.0\ConsoleExercicioParImpar.csproj.AssemblyReference.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 2\ConsoleExercicioParImpar\obj\Debug\net6.0\ConsoleExercicioParImpar.GeneratedMSBuildEditorConfig.editorconfig
+E:\MeusProjetos\CSharp-2010\Capitulo 2\ConsoleExercicioParImpar\obj\Debug\net6.0\ConsoleExercicioParImpar.AssemblyInfoInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 2\ConsoleExercicioParImpar\obj\Debug\net6.0\ConsoleExercicioParImpar.AssemblyInfo.cs
+E:\MeusProjetos\CSharp-2010\Capitulo 2\ConsoleExercicioParImpar\obj\Debug\net6.0\ConsoleExercicioParImpar.csproj.CoreCompileInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 2\ConsoleExercicioParImpar\obj\Debug\net6.0\ConsoleExercicioParImpar.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 2\ConsoleExercicioParImpar\obj\Debug\net6.0\refint\ConsoleExercicioParImpar.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 2\ConsoleExercicioParImpar\obj\Debug\net6.0\ConsoleExercicioParImpar.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 2\ConsoleExercicioParImpar\obj\Debug\net6.0\ConsoleExercicioParImpar.genruntimeconfig.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 2\ConsoleExercicioParImpar\obj\Debug\net6.0\ref\ConsoleExercicioParImpar.dll
