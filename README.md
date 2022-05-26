@@ -22,9 +22,14 @@ Estudos/Exercícios com base em livro [Microsoft Visual C# 2010 express: Aprenda
   * Aritméticos de atribuição
 - [x] Exercícios 
 
-
 ## Capítulo 3 - Estrutura Condicional
-- [ ] Exercícios 
+* Tomada de decisão
+  * Estrutura de decisão simples
+  * Estrutura de decisão Composta
+* Estrutura encadeada
+  * Estrutura Switch
+  * Tratamento de erros - exception  
+- [x] Exercícios 
 
 ## Capítulo 4 - Estrutura de Repetição
 - [ ] Exercícios 
