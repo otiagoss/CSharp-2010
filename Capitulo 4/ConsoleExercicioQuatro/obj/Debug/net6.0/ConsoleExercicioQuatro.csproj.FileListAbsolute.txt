@@ -1,0 +1,15 @@
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioQuatro\bin\Debug\net6.0\ConsoleExercicioQuatro.exe
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioQuatro\bin\Debug\net6.0\ConsoleExercicioQuatro.deps.json
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioQuatro\bin\Debug\net6.0\ConsoleExercicioQuatro.runtimeconfig.json
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioQuatro\bin\Debug\net6.0\ConsoleExercicioQuatro.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioQuatro\bin\Debug\net6.0\ConsoleExercicioQuatro.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioQuatro\obj\Debug\net6.0\ConsoleExercicioQuatro.csproj.AssemblyReference.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioQuatro\obj\Debug\net6.0\ConsoleExercicioQuatro.GeneratedMSBuildEditorConfig.editorconfig
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioQuatro\obj\Debug\net6.0\ConsoleExercicioQuatro.AssemblyInfoInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioQuatro\obj\Debug\net6.0\ConsoleExercicioQuatro.AssemblyInfo.cs
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioQuatro\obj\Debug\net6.0\ConsoleExercicioQuatro.csproj.CoreCompileInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioQuatro\obj\Debug\net6.0\ConsoleExercicioQuatro.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioQuatro\obj\Debug\net6.0\refint\ConsoleExercicioQuatro.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioQuatro\obj\Debug\net6.0\ConsoleExercicioQuatro.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioQuatro\obj\Debug\net6.0\ConsoleExercicioQuatro.genruntimeconfig.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioQuatro\obj\Debug\net6.0\ref\ConsoleExercicioQuatro.dll

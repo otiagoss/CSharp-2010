@@ -1,0 +1,15 @@
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioTres\bin\Debug\net6.0\ConsoleExercicioTres.exe
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioTres\bin\Debug\net6.0\ConsoleExercicioTres.deps.json
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioTres\bin\Debug\net6.0\ConsoleExercicioTres.runtimeconfig.json
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioTres\bin\Debug\net6.0\ConsoleExercicioTres.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioTres\bin\Debug\net6.0\ConsoleExercicioTres.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioTres\obj\Debug\net6.0\ConsoleExercicioTres.csproj.AssemblyReference.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioTres\obj\Debug\net6.0\ConsoleExercicioTres.GeneratedMSBuildEditorConfig.editorconfig
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioTres\obj\Debug\net6.0\ConsoleExercicioTres.AssemblyInfoInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioTres\obj\Debug\net6.0\ConsoleExercicioTres.AssemblyInfo.cs
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioTres\obj\Debug\net6.0\ConsoleExercicioTres.csproj.CoreCompileInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioTres\obj\Debug\net6.0\ConsoleExercicioTres.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioTres\obj\Debug\net6.0\refint\ConsoleExercicioTres.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioTres\obj\Debug\net6.0\ConsoleExercicioTres.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioTres\obj\Debug\net6.0\ConsoleExercicioTres.genruntimeconfig.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioTres\obj\Debug\net6.0\ref\ConsoleExercicioTres.dll

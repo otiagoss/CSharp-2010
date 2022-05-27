@@ -1,0 +1,15 @@
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioDois\obj\Debug\net6.0\ConsoleExercicioDois.csproj.AssemblyReference.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioDois\obj\Debug\net6.0\ConsoleExercicioDois.GeneratedMSBuildEditorConfig.editorconfig
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioDois\obj\Debug\net6.0\ConsoleExercicioDois.AssemblyInfoInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioDois\obj\Debug\net6.0\ConsoleExercicioDois.AssemblyInfo.cs
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioDois\obj\Debug\net6.0\ConsoleExercicioDois.csproj.CoreCompileInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioDois\bin\Debug\net6.0\ConsoleExercicioDois.exe
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioDois\bin\Debug\net6.0\ConsoleExercicioDois.deps.json
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioDois\bin\Debug\net6.0\ConsoleExercicioDois.runtimeconfig.json
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioDois\bin\Debug\net6.0\ConsoleExercicioDois.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioDois\bin\Debug\net6.0\ConsoleExercicioDois.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioDois\obj\Debug\net6.0\ConsoleExercicioDois.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioDois\obj\Debug\net6.0\refint\ConsoleExercicioDois.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioDois\obj\Debug\net6.0\ConsoleExercicioDois.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioDois\obj\Debug\net6.0\ConsoleExercicioDois.genruntimeconfig.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExercicioDois\obj\Debug\net6.0\ref\ConsoleExercicioDois.dll
