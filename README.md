@@ -32,7 +32,11 @@ Estudos/Exercícios com base em livro [Microsoft Visual C# 2010 express: Aprenda
 - [x] Exercícios 
 
 ## Capítulo 4 - Estrutura de Repetição
-- [ ] Exercícios 
+* Estrutura while
+* Estrutura do...while
+* Estrutura for
+* Estrutura foreach
+- [x] Exercícios 
 
 ## Capítulo 5 - Aplicações Visuais
 - [ ] Exercícios 
