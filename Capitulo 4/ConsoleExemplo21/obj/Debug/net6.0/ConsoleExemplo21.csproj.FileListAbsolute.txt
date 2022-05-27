@@ -1,0 +1,15 @@
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo21\bin\Debug\net6.0\ConsoleExemplo21.exe
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo21\bin\Debug\net6.0\ConsoleExemplo21.deps.json
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo21\bin\Debug\net6.0\ConsoleExemplo21.runtimeconfig.json
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo21\bin\Debug\net6.0\ConsoleExemplo21.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo21\bin\Debug\net6.0\ConsoleExemplo21.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo21\obj\Debug\net6.0\ConsoleExemplo21.csproj.AssemblyReference.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo21\obj\Debug\net6.0\ConsoleExemplo21.GeneratedMSBuildEditorConfig.editorconfig
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo21\obj\Debug\net6.0\ConsoleExemplo21.AssemblyInfoInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo21\obj\Debug\net6.0\ConsoleExemplo21.AssemblyInfo.cs
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo21\obj\Debug\net6.0\ConsoleExemplo21.csproj.CoreCompileInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo21\obj\Debug\net6.0\ConsoleExemplo21.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo21\obj\Debug\net6.0\refint\ConsoleExemplo21.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo21\obj\Debug\net6.0\ConsoleExemplo21.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo21\obj\Debug\net6.0\ConsoleExemplo21.genruntimeconfig.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo21\obj\Debug\net6.0\ref\ConsoleExemplo21.dll

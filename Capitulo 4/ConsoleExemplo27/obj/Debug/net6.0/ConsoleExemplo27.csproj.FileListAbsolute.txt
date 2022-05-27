@@ -1,0 +1,15 @@
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo27\obj\Debug\net6.0\ConsoleExemplo27.csproj.AssemblyReference.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo27\obj\Debug\net6.0\ConsoleExemplo27.GeneratedMSBuildEditorConfig.editorconfig
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo27\obj\Debug\net6.0\ConsoleExemplo27.AssemblyInfoInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo27\obj\Debug\net6.0\ConsoleExemplo27.AssemblyInfo.cs
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo27\obj\Debug\net6.0\ConsoleExemplo27.csproj.CoreCompileInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo27\bin\Debug\net6.0\ConsoleExemplo27.exe
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo27\bin\Debug\net6.0\ConsoleExemplo27.deps.json
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo27\bin\Debug\net6.0\ConsoleExemplo27.runtimeconfig.json
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo27\bin\Debug\net6.0\ConsoleExemplo27.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo27\bin\Debug\net6.0\ConsoleExemplo27.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo27\obj\Debug\net6.0\ConsoleExemplo27.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo27\obj\Debug\net6.0\refint\ConsoleExemplo27.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo27\obj\Debug\net6.0\ConsoleExemplo27.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo27\obj\Debug\net6.0\ConsoleExemplo27.genruntimeconfig.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 4\ConsoleExemplo27\obj\Debug\net6.0\ref\ConsoleExemplo27.dll
