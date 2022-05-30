@@ -1,0 +1,9 @@
+Exercícios
+1. int.Parse()
+2. toString()
+3. Exibir mensagens para o usuário.
+4. &Verificar
+5. MessageBox.Show("Deseja Sair do Programa?",
+                   "***** FINALIZANDO *****", 
+                   MessageBoxButtons.YesNo,
+				   MessageBoxIcon.Question)

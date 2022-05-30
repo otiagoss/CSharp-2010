@@ -1,0 +1,17 @@
+E:\MeusProjetos\CSharp-2010\Capitulo 5\VerificarNumeros\bin\Debug\net6.0-windows\VerificarNumeros.exe
+E:\MeusProjetos\CSharp-2010\Capitulo 5\VerificarNumeros\bin\Debug\net6.0-windows\VerificarNumeros.deps.json
+E:\MeusProjetos\CSharp-2010\Capitulo 5\VerificarNumeros\bin\Debug\net6.0-windows\VerificarNumeros.runtimeconfig.json
+E:\MeusProjetos\CSharp-2010\Capitulo 5\VerificarNumeros\bin\Debug\net6.0-windows\VerificarNumeros.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 5\VerificarNumeros\bin\Debug\net6.0-windows\VerificarNumeros.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 5\VerificarNumeros\obj\Debug\net6.0-windows\VerificarNumeros.csproj.AssemblyReference.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 5\VerificarNumeros\obj\Debug\net6.0-windows\VerificarNumeros.csproj.GenerateResource.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 5\VerificarNumeros\obj\Debug\net6.0-windows\VerificarNumeros.GeneratedMSBuildEditorConfig.editorconfig
+E:\MeusProjetos\CSharp-2010\Capitulo 5\VerificarNumeros\obj\Debug\net6.0-windows\VerificarNumeros.AssemblyInfoInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 5\VerificarNumeros\obj\Debug\net6.0-windows\VerificarNumeros.AssemblyInfo.cs
+E:\MeusProjetos\CSharp-2010\Capitulo 5\VerificarNumeros\obj\Debug\net6.0-windows\VerificarNumeros.csproj.CoreCompileInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 5\VerificarNumeros\obj\Debug\net6.0-windows\VerificarNumeros.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 5\VerificarNumeros\obj\Debug\net6.0-windows\refint\VerificarNumeros.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 5\VerificarNumeros\obj\Debug\net6.0-windows\VerificarNumeros.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 5\VerificarNumeros\obj\Debug\net6.0-windows\VerificarNumeros.genruntimeconfig.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 5\VerificarNumeros\obj\Debug\net6.0-windows\ref\VerificarNumeros.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 5\VerificarNumeros\obj\Debug\net6.0-windows\VerificarNumeros.FrmVerifica.resources

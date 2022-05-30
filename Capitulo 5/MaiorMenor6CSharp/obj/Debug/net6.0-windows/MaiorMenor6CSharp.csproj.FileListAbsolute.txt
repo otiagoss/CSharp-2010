@@ -1,0 +1,17 @@
+E:\MeusProjetos\CSharp-2010\Capitulo 5\MaiorMenor6CSharp\bin\Debug\net6.0-windows\MaiorMenor6CSharp.exe
+E:\MeusProjetos\CSharp-2010\Capitulo 5\MaiorMenor6CSharp\bin\Debug\net6.0-windows\MaiorMenor6CSharp.deps.json
+E:\MeusProjetos\CSharp-2010\Capitulo 5\MaiorMenor6CSharp\bin\Debug\net6.0-windows\MaiorMenor6CSharp.runtimeconfig.json
+E:\MeusProjetos\CSharp-2010\Capitulo 5\MaiorMenor6CSharp\bin\Debug\net6.0-windows\MaiorMenor6CSharp.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 5\MaiorMenor6CSharp\bin\Debug\net6.0-windows\MaiorMenor6CSharp.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 5\MaiorMenor6CSharp\obj\Debug\net6.0-windows\MaiorMenor6CSharp.csproj.AssemblyReference.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 5\MaiorMenor6CSharp\obj\Debug\net6.0-windows\MaiorMenor6CSharp.FrmMaiorde6.resources
+E:\MeusProjetos\CSharp-2010\Capitulo 5\MaiorMenor6CSharp\obj\Debug\net6.0-windows\MaiorMenor6CSharp.csproj.GenerateResource.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 5\MaiorMenor6CSharp\obj\Debug\net6.0-windows\MaiorMenor6CSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\MeusProjetos\CSharp-2010\Capitulo 5\MaiorMenor6CSharp\obj\Debug\net6.0-windows\MaiorMenor6CSharp.AssemblyInfoInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 5\MaiorMenor6CSharp\obj\Debug\net6.0-windows\MaiorMenor6CSharp.AssemblyInfo.cs
+E:\MeusProjetos\CSharp-2010\Capitulo 5\MaiorMenor6CSharp\obj\Debug\net6.0-windows\MaiorMenor6CSharp.csproj.CoreCompileInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 5\MaiorMenor6CSharp\obj\Debug\net6.0-windows\MaiorMenor6CSharp.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 5\MaiorMenor6CSharp\obj\Debug\net6.0-windows\refint\MaiorMenor6CSharp.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 5\MaiorMenor6CSharp\obj\Debug\net6.0-windows\MaiorMenor6CSharp.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 5\MaiorMenor6CSharp\obj\Debug\net6.0-windows\MaiorMenor6CSharp.genruntimeconfig.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 5\MaiorMenor6CSharp\obj\Debug\net6.0-windows\ref\MaiorMenor6CSharp.dll
