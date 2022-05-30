@@ -39,7 +39,9 @@ Estudos/Exercícios com base em livro [Microsoft Visual C# 2010 express: Aprenda
 - [x] Exercícios 
 
 ## Capítulo 5 - Aplicações Visuais
-- [ ] Exercícios 
+* Introdução ao ambiente visual
+* Criação de procecimentos de usuário em C#
+- [x] Exercícios 
 
 ## Capítulo 6 - Funções e Vetores
 - [ ] Exercícios
