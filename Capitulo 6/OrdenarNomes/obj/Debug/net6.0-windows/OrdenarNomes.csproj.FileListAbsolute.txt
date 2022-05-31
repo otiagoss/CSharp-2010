@@ -1,0 +1,17 @@
+E:\MeusProjetos\CSharp-2010\Capitulo 6\OrdenarNomes\bin\Debug\net6.0-windows\OrdenarNomes.exe
+E:\MeusProjetos\CSharp-2010\Capitulo 6\OrdenarNomes\bin\Debug\net6.0-windows\OrdenarNomes.deps.json
+E:\MeusProjetos\CSharp-2010\Capitulo 6\OrdenarNomes\bin\Debug\net6.0-windows\OrdenarNomes.runtimeconfig.json
+E:\MeusProjetos\CSharp-2010\Capitulo 6\OrdenarNomes\bin\Debug\net6.0-windows\OrdenarNomes.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 6\OrdenarNomes\bin\Debug\net6.0-windows\OrdenarNomes.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 6\OrdenarNomes\obj\Debug\net6.0-windows\OrdenarNomes.csproj.AssemblyReference.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 6\OrdenarNomes\obj\Debug\net6.0-windows\OrdenarNomes.FrmOrdenarNomes.resources
+E:\MeusProjetos\CSharp-2010\Capitulo 6\OrdenarNomes\obj\Debug\net6.0-windows\OrdenarNomes.csproj.GenerateResource.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 6\OrdenarNomes\obj\Debug\net6.0-windows\OrdenarNomes.GeneratedMSBuildEditorConfig.editorconfig
+E:\MeusProjetos\CSharp-2010\Capitulo 6\OrdenarNomes\obj\Debug\net6.0-windows\OrdenarNomes.AssemblyInfoInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 6\OrdenarNomes\obj\Debug\net6.0-windows\OrdenarNomes.AssemblyInfo.cs
+E:\MeusProjetos\CSharp-2010\Capitulo 6\OrdenarNomes\obj\Debug\net6.0-windows\OrdenarNomes.csproj.CoreCompileInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 6\OrdenarNomes\obj\Debug\net6.0-windows\OrdenarNomes.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 6\OrdenarNomes\obj\Debug\net6.0-windows\refint\OrdenarNomes.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 6\OrdenarNomes\obj\Debug\net6.0-windows\OrdenarNomes.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 6\OrdenarNomes\obj\Debug\net6.0-windows\OrdenarNomes.genruntimeconfig.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 6\OrdenarNomes\obj\Debug\net6.0-windows\ref\OrdenarNomes.dll

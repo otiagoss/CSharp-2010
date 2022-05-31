@@ -1,0 +1,7 @@
+Exercicios
+
+1. Math
+2. Round()
+3. Repalce: Substitui caracteres (conjunto)
+4. Para facilitar o entendimento do código
+5. Verificar a propriedade KeyCode.

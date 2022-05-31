@@ -1,0 +1,17 @@
+E:\MeusProjetos\CSharp-2010\Capitulo 6\CalculodaMedia\bin\Debug\net6.0-windows\CalculodaMedia.exe
+E:\MeusProjetos\CSharp-2010\Capitulo 6\CalculodaMedia\bin\Debug\net6.0-windows\CalculodaMedia.deps.json
+E:\MeusProjetos\CSharp-2010\Capitulo 6\CalculodaMedia\bin\Debug\net6.0-windows\CalculodaMedia.runtimeconfig.json
+E:\MeusProjetos\CSharp-2010\Capitulo 6\CalculodaMedia\bin\Debug\net6.0-windows\CalculodaMedia.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 6\CalculodaMedia\bin\Debug\net6.0-windows\CalculodaMedia.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 6\CalculodaMedia\obj\Debug\net6.0-windows\CalculodaMedia.csproj.AssemblyReference.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 6\CalculodaMedia\obj\Debug\net6.0-windows\CalculodaMedia.FrmCalcMedia.resources
+E:\MeusProjetos\CSharp-2010\Capitulo 6\CalculodaMedia\obj\Debug\net6.0-windows\CalculodaMedia.csproj.GenerateResource.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 6\CalculodaMedia\obj\Debug\net6.0-windows\CalculodaMedia.GeneratedMSBuildEditorConfig.editorconfig
+E:\MeusProjetos\CSharp-2010\Capitulo 6\CalculodaMedia\obj\Debug\net6.0-windows\CalculodaMedia.AssemblyInfoInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 6\CalculodaMedia\obj\Debug\net6.0-windows\CalculodaMedia.AssemblyInfo.cs
+E:\MeusProjetos\CSharp-2010\Capitulo 6\CalculodaMedia\obj\Debug\net6.0-windows\CalculodaMedia.csproj.CoreCompileInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 6\CalculodaMedia\obj\Debug\net6.0-windows\CalculodaMedia.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 6\CalculodaMedia\obj\Debug\net6.0-windows\refint\CalculodaMedia.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 6\CalculodaMedia\obj\Debug\net6.0-windows\CalculodaMedia.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 6\CalculodaMedia\obj\Debug\net6.0-windows\CalculodaMedia.genruntimeconfig.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 6\CalculodaMedia\obj\Debug\net6.0-windows\ref\CalculodaMedia.dll
