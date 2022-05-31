@@ -44,7 +44,9 @@ Estudos/Exercícios com base em livro [Microsoft Visual C# 2010 express: Aprenda
 - [x] Exercícios 
 
 ## Capítulo 6 - Funções e Vetores
-- [ ] Exercícios
+* Criação de funções em usuário em C#
+* Utilização de vetores em C#
+- [x] Exercícios 
 
 ## Capítulo 7 - Componentes Visuais
 - [ ] Exercícios 
