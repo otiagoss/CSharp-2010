@@ -49,7 +49,11 @@ Estudos/Exercícios com base em livro [Microsoft Visual C# 2010 express: Aprenda
 - [x] Exercícios 
 
 ## Capítulo 7 - Componentes Visuais
-- [ ] Exercícios 
+* ListBox
+* Timer
+* OpenFileDialog e PictureBox
+* Controle teclas na Aplicação
+- [X] Exercícios 
 
 ## Capítulo 8 - Criação de Menus
 - [ ] Exercícios 
