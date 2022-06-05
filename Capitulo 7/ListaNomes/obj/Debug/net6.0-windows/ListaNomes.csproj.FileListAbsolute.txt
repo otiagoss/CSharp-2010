@@ -1,0 +1,17 @@
+E:\MeusProjetos\CSharp-2010\Capitulo 7\ListaNomes\bin\Debug\net6.0-windows\ListaNomes.exe
+E:\MeusProjetos\CSharp-2010\Capitulo 7\ListaNomes\bin\Debug\net6.0-windows\ListaNomes.deps.json
+E:\MeusProjetos\CSharp-2010\Capitulo 7\ListaNomes\bin\Debug\net6.0-windows\ListaNomes.runtimeconfig.json
+E:\MeusProjetos\CSharp-2010\Capitulo 7\ListaNomes\bin\Debug\net6.0-windows\ListaNomes.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 7\ListaNomes\bin\Debug\net6.0-windows\ListaNomes.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 7\ListaNomes\obj\Debug\net6.0-windows\ListaNomes.csproj.AssemblyReference.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 7\ListaNomes\obj\Debug\net6.0-windows\ListaNomes.csproj.GenerateResource.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 7\ListaNomes\obj\Debug\net6.0-windows\ListaNomes.GeneratedMSBuildEditorConfig.editorconfig
+E:\MeusProjetos\CSharp-2010\Capitulo 7\ListaNomes\obj\Debug\net6.0-windows\ListaNomes.AssemblyInfoInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 7\ListaNomes\obj\Debug\net6.0-windows\ListaNomes.AssemblyInfo.cs
+E:\MeusProjetos\CSharp-2010\Capitulo 7\ListaNomes\obj\Debug\net6.0-windows\ListaNomes.csproj.CoreCompileInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 7\ListaNomes\obj\Debug\net6.0-windows\ListaNomes.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 7\ListaNomes\obj\Debug\net6.0-windows\refint\ListaNomes.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 7\ListaNomes\obj\Debug\net6.0-windows\ListaNomes.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 7\ListaNomes\obj\Debug\net6.0-windows\ListaNomes.genruntimeconfig.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 7\ListaNomes\obj\Debug\net6.0-windows\ref\ListaNomes.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 7\ListaNomes\obj\Debug\net6.0-windows\ListaNomes.FrmListadeNomes.resources

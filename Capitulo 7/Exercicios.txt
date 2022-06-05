@@ -1,0 +1,33 @@
+Exercícios
+
+1. Items.Add => Para adicionar itens a lista
+   lista.Items.add("João");
+   
+   Items.RemoveAt => Para remover itens da lista   
+   lista.Items.RemoveAt(indice);
+   
+2. SelectedIndex => Para selecionar o item a ser excluído
+   indice = lista.SelectedIndex;
+    lista.Items.RemoveAt(indice);
+	
+3. Contar a quantidade de itens na lista 
+
+4. Enable = Iniciar a contagem do tempo 
+   Interval = o Intervalo de tempo em milissegundos que deve funcionar o contador
+   
+5. DateTime.Now.ToLongDateString() => Retorno no formato de texto (string) a data vigente  
+   DateTime.Now.ToLongDateString() => Retorno no formato de texto (string) a hora vigente 
+  
+6. Método KeyDown
+
+private void txtNome_KeyDown(object sender, KeyEventArgs e)
+{
+
+	if (e.KeyCode == Keys.Return)
+	{
+
+		txtProximo.Focus();
+
+	}
+
+}   
