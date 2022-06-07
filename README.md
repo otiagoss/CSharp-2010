@@ -56,7 +56,10 @@ Estudos/Exercícios com base em livro [Microsoft Visual C# 2010 express: Aprenda
 - [X] Exercícios 
 
 ## Capítulo 8 - Criação de Menus
-- [ ] Exercícios 
+* Criação do Menu em C#
+* Criação de menu PopUP
+* Barra de status
+- [X] Exercícios 
 
 ## Capítulo 9 - Banco de Dados com MS-Access 2010
 - [ ] Exercícios 

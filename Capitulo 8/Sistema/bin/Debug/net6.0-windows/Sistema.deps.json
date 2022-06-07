@@ -1,0 +1,96 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sistema/1.0.0": {
+        "dependencies": {
+          "CalculodaMedia": "1.0.0",
+          "Imagem": "1.0.0",
+          "ListaNomes": "1.0.0",
+          "MoviTeclas": "1.0.0",
+          "OrdenarNomes": "1.0.0",
+          "Relogio": "1.0.0"
+        },
+        "runtime": {
+          "Sistema.dll": {}
+        }
+      },
+      "CalculodaMedia/1.0.0": {
+        "runtime": {
+          "CalculodaMedia.dll": {}
+        }
+      },
+      "Imagem/1.0.0": {
+        "runtime": {
+          "Imagem.dll": {}
+        },
+        "resources": {
+          "pt-BR/Imagem.resources.dll": {
+            "locale": "pt-BR"
+          }
+        }
+      },
+      "ListaNomes/1.0.0": {
+        "runtime": {
+          "ListaNomes.dll": {}
+        }
+      },
+      "MoviTeclas/1.0.0": {
+        "runtime": {
+          "MoviTeclas.dll": {}
+        }
+      },
+      "OrdenarNomes/1.0.0": {
+        "runtime": {
+          "OrdenarNomes.dll": {}
+        }
+      },
+      "Relogio/1.0.0": {
+        "runtime": {
+          "Relogio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculodaMedia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Imagem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ListaNomes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MoviTeclas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrdenarNomes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Relogio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

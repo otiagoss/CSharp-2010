@@ -1,0 +1,454 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\MeusProjetos\\CSharp-2010\\Capitulo 8\\Sistema\\Sistema.csproj": {}
+  },
+  "projects": {
+    "E:\\MeusProjetos\\CSharp-2010\\Capitulo 6\\CalculodaMedia\\CalculodaMedia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 6\\CalculodaMedia\\CalculodaMedia.csproj",
+        "projectName": "CalculodaMedia",
+        "projectPath": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 6\\CalculodaMedia\\CalculodaMedia.csproj",
+        "packagesPath": "C:\\Users\\TIAGO-PC\\.nuget\\packages\\",
+        "outputPath": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 6\\CalculodaMedia\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TIAGO-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MeusProjetos\\CSharp-2010\\Capitulo 6\\OrdenarNomes\\OrdenarNomes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 6\\OrdenarNomes\\OrdenarNomes.csproj",
+        "projectName": "OrdenarNomes",
+        "projectPath": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 6\\OrdenarNomes\\OrdenarNomes.csproj",
+        "packagesPath": "C:\\Users\\TIAGO-PC\\.nuget\\packages\\",
+        "outputPath": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 6\\OrdenarNomes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TIAGO-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MeusProjetos\\CSharp-2010\\Capitulo 7\\Imagem\\Imagem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 7\\Imagem\\Imagem.csproj",
+        "projectName": "Imagem",
+        "projectPath": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 7\\Imagem\\Imagem.csproj",
+        "packagesPath": "C:\\Users\\TIAGO-PC\\.nuget\\packages\\",
+        "outputPath": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 7\\Imagem\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TIAGO-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MeusProjetos\\CSharp-2010\\Capitulo 7\\ListaNomes\\ListaNomes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 7\\ListaNomes\\ListaNomes.csproj",
+        "projectName": "ListaNomes",
+        "projectPath": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 7\\ListaNomes\\ListaNomes.csproj",
+        "packagesPath": "C:\\Users\\TIAGO-PC\\.nuget\\packages\\",
+        "outputPath": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 7\\ListaNomes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TIAGO-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MeusProjetos\\CSharp-2010\\Capitulo 7\\MoviTeclas\\MoviTeclas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 7\\MoviTeclas\\MoviTeclas.csproj",
+        "projectName": "MoviTeclas",
+        "projectPath": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 7\\MoviTeclas\\MoviTeclas.csproj",
+        "packagesPath": "C:\\Users\\TIAGO-PC\\.nuget\\packages\\",
+        "outputPath": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 7\\MoviTeclas\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TIAGO-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MeusProjetos\\CSharp-2010\\Capitulo 7\\Relogio\\Relogio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 7\\Relogio\\Relogio.csproj",
+        "projectName": "Relogio",
+        "projectPath": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 7\\Relogio\\Relogio.csproj",
+        "packagesPath": "C:\\Users\\TIAGO-PC\\.nuget\\packages\\",
+        "outputPath": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 7\\Relogio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TIAGO-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MeusProjetos\\CSharp-2010\\Capitulo 8\\Sistema\\Sistema.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 8\\Sistema\\Sistema.csproj",
+        "projectName": "Sistema",
+        "projectPath": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 8\\Sistema\\Sistema.csproj",
+        "packagesPath": "C:\\Users\\TIAGO-PC\\.nuget\\packages\\",
+        "outputPath": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 8\\Sistema\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TIAGO-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "E:\\MeusProjetos\\CSharp-2010\\Capitulo 6\\CalculodaMedia\\CalculodaMedia.csproj": {
+                "projectPath": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 6\\CalculodaMedia\\CalculodaMedia.csproj"
+              },
+              "E:\\MeusProjetos\\CSharp-2010\\Capitulo 6\\OrdenarNomes\\OrdenarNomes.csproj": {
+                "projectPath": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 6\\OrdenarNomes\\OrdenarNomes.csproj"
+              },
+              "E:\\MeusProjetos\\CSharp-2010\\Capitulo 7\\Imagem\\Imagem.csproj": {
+                "projectPath": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 7\\Imagem\\Imagem.csproj"
+              },
+              "E:\\MeusProjetos\\CSharp-2010\\Capitulo 7\\ListaNomes\\ListaNomes.csproj": {
+                "projectPath": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 7\\ListaNomes\\ListaNomes.csproj"
+              },
+              "E:\\MeusProjetos\\CSharp-2010\\Capitulo 7\\MoviTeclas\\MoviTeclas.csproj": {
+                "projectPath": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 7\\MoviTeclas\\MoviTeclas.csproj"
+              },
+              "E:\\MeusProjetos\\CSharp-2010\\Capitulo 7\\Relogio\\Relogio.csproj": {
+                "projectPath": "E:\\MeusProjetos\\CSharp-2010\\Capitulo 7\\Relogio\\Relogio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
