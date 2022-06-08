@@ -1,0 +1,7 @@
+Exercícios
+
+1. Clique no Menu Data -> Show Data Sources e selecione a opção Add New Data Source...
+
+2. String de Conexão (Connection string) indica o local onde se encontra o Banco.
+
+3. Clicar no botão Add New (+)

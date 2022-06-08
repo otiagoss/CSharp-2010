@@ -1,0 +1,12 @@
+E:\MeusProjetos\CSharp-2010\Capitulo 9\Agenda\bin\Debug\Agenda.exe.config
+E:\MeusProjetos\CSharp-2010\Capitulo 9\Agenda\bin\Debug\Agenda.exe
+E:\MeusProjetos\CSharp-2010\Capitulo 9\Agenda\bin\Debug\Agenda.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 9\Agenda\obj\Debug\Agenda.csproj.AssemblyReference.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 9\Agenda\obj\Debug\Agenda.csproj.SuggestedBindingRedirects.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 9\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+E:\MeusProjetos\CSharp-2010\Capitulo 9\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 9\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 9\Agenda\obj\Debug\Agenda.exe
+E:\MeusProjetos\CSharp-2010\Capitulo 9\Agenda\obj\Debug\Agenda.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 9\Agenda\obj\Debug\Agenda.FormAgenda.resources
+E:\MeusProjetos\CSharp-2010\Capitulo 9\Agenda\bin\Debug\Cadastro.accdb
