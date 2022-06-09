@@ -1,0 +1,5 @@
+Exercícios
+
+1. DataBase Explorer:  Cria estrutura e gerencia informações, possibilita de adicionar uma Conexão ao projeto atual com um banco de dados existente ou até mesmo criar outro.
+
+2. Sim, pelo DataBase Explorer

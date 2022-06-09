@@ -1,0 +1,5 @@
+E:\MeusProjetos\CSharp-2010\Capitulo 11\Calculo_da_Media\CalculodaMedia.exe
+E:\MeusProjetos\CSharp-2010\Capitulo 11\Calculo_da_Media\CalculodaMedia.dll
+E:\MeusProjetos\CSharp-2010\Capitulo 11\Calculo_da_Media\CalculodaMedia.deps.json
+E:\MeusProjetos\CSharp-2010\Capitulo 11\Calculo_da_Media\CalculodaMedia.runtimeconfig.json
+E:\MeusProjetos\CSharp-2010\Capitulo 11\Calculo_da_Media\CalculodaMedia.pdb

@@ -1,0 +1,13 @@
+E:\MeusProjetos\CSharp-2010\Capitulo 10\AgendaSQL\bin\Debug\AgendaSQL.exe.config
+E:\MeusProjetos\CSharp-2010\Capitulo 10\AgendaSQL\bin\Debug\AgendaSQL.exe
+E:\MeusProjetos\CSharp-2010\Capitulo 10\AgendaSQL\bin\Debug\AgendaSQL.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 10\AgendaSQL\obj\Debug\AgendaSQL.csproj.AssemblyReference.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 10\AgendaSQL\obj\Debug\AgendaSQL.csproj.SuggestedBindingRedirects.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 10\AgendaSQL\obj\Debug\AgendaSQL.FrmAgendaSQL.resources
+E:\MeusProjetos\CSharp-2010\Capitulo 10\AgendaSQL\obj\Debug\AgendaSQL.Properties.Resources.resources
+E:\MeusProjetos\CSharp-2010\Capitulo 10\AgendaSQL\obj\Debug\AgendaSQL.csproj.GenerateResource.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 10\AgendaSQL\obj\Debug\AgendaSQL.csproj.CoreCompileInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 10\AgendaSQL\obj\Debug\AgendaSQL.exe
+E:\MeusProjetos\CSharp-2010\Capitulo 10\AgendaSQL\obj\Debug\AgendaSQL.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 10\AgendaSQL\bin\Debug\CadastroAgendaSQL.mdf
+E:\MeusProjetos\CSharp-2010\Capitulo 10\AgendaSQL\bin\Debug\CadastroAgendaSQL_log.ldf

@@ -62,14 +62,15 @@ Estudos/Exercícios com base em livro [Microsoft Visual C# 2010 express: Aprenda
 - [X] Exercícios 
 
 ## Capítulo 9 - Banco de Dados com MS-Access 2010
-*Banco de Dados Com MS-Access
+*Aplicação com Banco de Dados Com MS-Access
 - [X] Exercícios 
 
 ## Capítulo 10 - Banco de Dados com Microsoft SQL Server 2008 Express
-- [ ] Exercícios 
+*Aplicação com Banco de Dados Com SQL
+- [X] Exercícios 
 
 ## Capítulo 11 - Distribuindo uma aplicação
-- [ ] Exercícios 
+Vide Leia-me
 
 ## Capítulo 12 - Orientação a Objetos
 - [ ] Exercícios

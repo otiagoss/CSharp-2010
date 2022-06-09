@@ -1,0 +1,2 @@
+No estudo do Livro foi utilizada a Versão Visual Studio Community 2022, e ouve alterações no processo de publicação. 
+Neste caso segue a Documentação da MS (https://docs.microsoft.com/en-us/dotnet/core/tutorials/publishing-with-visual-studio?pivots=dotnet-6-0)
