@@ -1,0 +1,11 @@
+E:\MeusProjetos\CSharp-2010\Capitulo 12\PI\Pi\obj\Debug\Pi.csproj.AssemblyReference.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 12\PI\Pi\obj\Debug\Pi.csproj.SuggestedBindingRedirects.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 12\PI\Pi\obj\Debug\Pi.FrmClasseMath.resources
+E:\MeusProjetos\CSharp-2010\Capitulo 12\PI\Pi\obj\Debug\Pi.Properties.Resources.resources
+E:\MeusProjetos\CSharp-2010\Capitulo 12\PI\Pi\obj\Debug\Pi.csproj.GenerateResource.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 12\PI\Pi\obj\Debug\Pi.csproj.CoreCompileInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 12\PI\Pi\bin\Debug\Pi.exe.config
+E:\MeusProjetos\CSharp-2010\Capitulo 12\PI\Pi\bin\Debug\Pi.exe
+E:\MeusProjetos\CSharp-2010\Capitulo 12\PI\Pi\bin\Debug\Pi.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 12\PI\Pi\obj\Debug\Pi.exe
+E:\MeusProjetos\CSharp-2010\Capitulo 12\PI\Pi\obj\Debug\Pi.pdb

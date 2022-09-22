@@ -1,0 +1,11 @@
+E:\MeusProjetos\CSharp-2010\Capitulo 12\String\bin\Debug\String.exe.config
+E:\MeusProjetos\CSharp-2010\Capitulo 12\String\bin\Debug\String.exe
+E:\MeusProjetos\CSharp-2010\Capitulo 12\String\bin\Debug\String.pdb
+E:\MeusProjetos\CSharp-2010\Capitulo 12\String\obj\Debug\String.csproj.AssemblyReference.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 12\String\obj\Debug\String.csproj.SuggestedBindingRedirects.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 12\String\obj\Debug\String.FrmClassString.resources
+E:\MeusProjetos\CSharp-2010\Capitulo 12\String\obj\Debug\String.Properties.Resources.resources
+E:\MeusProjetos\CSharp-2010\Capitulo 12\String\obj\Debug\String.csproj.GenerateResource.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 12\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+E:\MeusProjetos\CSharp-2010\Capitulo 12\String\obj\Debug\String.exe
+E:\MeusProjetos\CSharp-2010\Capitulo 12\String\obj\Debug\String.pdb
